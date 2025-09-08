@@ -23,7 +23,6 @@ This project analyzes the sales performance of Snackshakti Ltd.'s "Masala Marie"
 Formula used:
 ![Discounted Revenue](outputs/discount_revenue.png)
 Discounted_Revenue = (Unit_Price - Discount_Offered) * Units_Sold
-
 ### 3.2 Mean and Standard Deviation by Pack Size
 Calculated average and standard deviation of units sold for each pack size.
 ![Mean and Standard Deviation](outputs/Mean&StdDev.png) 
@@ -38,7 +37,7 @@ Calculated average and standard deviation of units sold for each pack size.
 Compared total revenue with and without discounts to identify top 2 cities with least discount effect.
  
 ### 3.5 Bar Chart of Pack Size Sales (Optional)
-![Bar Chart](output/BarChart.png)
+![Bar Chart](outputs/BarChart.png)
 200g packs are the most sold overall, suggesting customers prefer mid-size options.
 
 ---
